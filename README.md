@@ -15,9 +15,11 @@ Gateway : 192.168.1.1 (Gunakan app.diagrams.net untuk membuat diagramnya, Refere
 
 
 1.	IP PUBLIC : Ip Public adalah ip address yang bisa digunakan untuk khalayak umum dan Alamat akses bisa digunakan suatu individu untuk mengakses suatu informasi dari suatu server dan juga memiliki akses public yang dominan
+
 IP Private : Ip Private adalah ip address yang hanya bisa digunakan oleh suatu individu yang terperinci dan hanya bisa diakses oleh kalangan tertentu dan juga akses informasi terhadap suatu server yang terbatas 
 
 IP dynamic: adalah ip router atau perangkat domain server dan Alamat ip yang digunakan berubah-ubah mengikuti dari router atau perangkat server yang digunakan dan juga memiliki jangka pembayaran yang lebih efektif dan penggunaanya bisa digunakan secara bergantian
+
 IP Static : adalah ip router atau perangkat domain server dan Alamat ip yang digunakan tidak bisa berubah dan hanya bisa diakes dan juga memiliki akses dan juga Alamat server yang tidak bisa diubah sehingga penggunaannya tidak bisa digunakan secara bergantian dan penggunannya hanya untuk suatu provider internet dan juga dedicated server.
 
 2.	Virtualization: sebuah system computer yang  menjalankan berbagai operasi atau rangkaian operasional suatu system secara bersamaan dan masih berada dalam suatu cangkupan yang sama.
